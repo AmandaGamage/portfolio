@@ -6,53 +6,13 @@
             "content" : [
                 {   
                     "title": [
-                        "KTH Royal Institute of Technology",
-                        "Research Engineer",
-                        "May 2023"
+                        "Yonsei University",
+                        "Master's Student Researcher",
+                        "Aug 2023-Present"
                     ],
                     "content": [
                         {
-                            "body": "At KTH Royal Institute of Technology, I worked on enhancing software supply chain security as part of the CHAINS project. Additionally, I contributed to research projects in the areas of generative AI and software testing."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Teaching Experience",
-            "content" : [
-                {   
-                    "title": [
-                        "Department of Computer Science & Engineering, University of Moratuwa",
-                        "Visting Instructor - Database Systems",
-                        "Feb 2022 - Apr 2022"
-                    ],
-                    "place": "Department of Computer Science & Engineering, University of Moratuwa",
-                    "position": "Visting Instructor",
-                    "duration": "Feb 2022 - Apr 2022",
-                    "content": [
-                        {
-                            "body": "As a visiting instructor for the module 'CS3042: Database Systems', my main responsibilities were to assist students with lab sessions and grade student assignments."
-                        }
-                    ]
-                },
-                {   
-                    "title": [
-                        "Department of Computer Science & Engineering, University of Moratuwa",
-                        "Visting Instructor - Software Engineering Project",
-                        "Jul 2023 - Nov 2023"
-                    ],
-                    "place": "Department of Computer Science & Engineering, University of Moratuwa",
-                    "position": "Visting Instructor",
-                    "duration": "Jul 2023 - Nov 2023",
-                    "content": [
-                        {
-                            "body": "For the module 'CS3202: Software Engineering Project' for bachelor's students in semester 5, I presented online sessions on web development, security best practices, and version control systems.",
-                            "presentations": [
-                                {
-                                    "link": "https://www.youtube.com/embed/XjesOQhtW8w?si=_UyAQXv7D-WaJroF"
-                                }
-                            ]
+                            "body": "At Yonsei University, I am working on designing spectrum-sharing systems and digital twin systems for 6G networks with Generative AI. Additionally, I am contributing to 6G-Arrow, Europe-Korea collaborative project, focusing on the development of AI-native integrated RAN- CORE networks for 6G."
                         }
                     ]
                 }
@@ -63,38 +23,41 @@
             "content" : [
                 {   
                     "title": [
-                        "WSO2 LLC",
+                        "PickMe (Digital Mobility Solutions Pvt Ltd)",
                         "Software Engineer (Research and Development)",
-                        "May 2022 - May 2023"
+                        "Apr 2021 - Aug 2022"
                     ],
                     "content": [
                         {
                             "title": "Organization’s Activities",
-                            "body": "WSO2 is the world's #1 open-source integration vendor, helping digitally driven organizations become integration agile. The company’s hybrid platform for developing, reusing, running, and managing integrations prevents lock-in through open-source software that runs on-premises or in the cloud."
+                            "body": "PickMe is a digital mobility solutions provider in Sri Lanka. It is a subsidiary of Digital Mobility Solutions Netherlands B.V. The company provides a range of services, including taxi-hailing, delivery, and logistics services. PickMe has a customer base of over 5 million users and a driver base of over 100,000 drivers."
                         },
                         {
                             "title": "My Tasks",
-                            "body": "At WSO2, I was part of the research and development team for the WSO2 Identity Server 6.0 release. Initially, I worked on testing the WSO2 Identity Server and updating the WSO2 Identity and Access Management repositories to support compilation in JDK 11 and JDK 17. Then, I worked on the IAM cloud management team, focusing on maintaining the Asgardeo product. My tasks included designing and implementing email-sending features for Asgardeo tenants and fixing issues. I also revamped the Asgardeo resource monitor architecture to improve performance and scalability limitations. My revamping efforts included removing the schedulers from the resource monitor and invoking them as Kubernetes cron jobs and providing resource throttling support for the EU region by adding a data layer."
+                            "body": "I worked on the development of the PickMe Driver app, which is used by drivers to accept and complete rides. I was involved in the development of the driver app’s UI, the driver app’s backend, and the driver app’s integration with the PickMe backend. The technologies and platforms used were React Native, JavaScript, GoLang, Python and MySQL."
+                        },
+                        {
+                            "body": "I was also involved in the development of a new driver registration system through the PickMe driver's app using GoLang and MySQL."
                         }
                     ]
                 },
                 {   
                     "title": [
-                        "IronOne Technologies LLC",
+                        "VS Information Systems (Pvt) Ltd",
                         "Software Engineer - Intern",
-                        "Oct 2020 - Apr 2021"
+                        "Jun 2019 - Dec 2019"
                     ],
                     "content": [
                         {
                             "title": "Organization’s Activities",
-                            "body": "IronOne Technologies is an innovative technology company with global presence across many key regions operating on cutting edge technological solutions. Ironone Operates three key business units; ATrad a comprehensive capital markets & trading platform, IroOne AI Labs which is a provider of highly skilled AI talent to solve complex business problems and the bespoke module solutions and services unit."
+                            "body": "VS Information Systems is a ICT solutions provider in Sri Lanka. The company provides a range of services, including Enterprise Systems, Virtualization and Cloud, Enterprise Data and Applications, Cybersecurity, Digital Telco, ELV and Enterprise Networks, and Personal Systems"
                         },
                         {
                             "title": "My Tasks",
-                            "body": "I worked in the frontend of the admin site of the theXchange ticketing platform. I developed various features such as dashboard, closed sales details, promo codes, events, seller payouts, charities, and admin users. The technologies and platforms used were Angular, TypeScript, HTML, SCSS, Invision, BitBucket, Azure DevOps, AWS Auth."
+                            "body": "I worked on introducing robotic process automated ticketing system for the company's help-desk system for the Enterprise and cloud system clients using UiPath."
                         },
                         {
-                            "body": "I was also involved in updating the User Interfaces of the Victoria's Secret Pink campus rep application process (Login and Upload a Moodboard, Schedule an Interview, Add Skype Information, Interview Review and Confirmation and Answer Questions Pages). The technologies and platforms used were Angular, Icons8 Lunacy and Sifterapp."
+                            "body": "I was also involved in introducing Jira software and software management process under agile practices for the company's software development team."
                         }
                     ]
                 }

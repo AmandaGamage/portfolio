@@ -19,10 +19,13 @@
                     "body": "I'm"
                 },
                 {
-                    "body": "Yogya Gamage"
+                    "body": "Amanda Gamage"
                 },
                 {
-                    "body": "I'm a PhD student at Université de Montréal"
+                    "body": "I'm a Master's student at Yonsei University, South Korea."
+                },
+                {
+                    "body": "(Global Korea Scholarship (GKS) Awardee)"
                 }
             ]
         },
@@ -36,13 +39,19 @@
                     "variant": "outlined",
                     "interests": [
                         {
-                            "title": "Software engineering "
+                            "title": "Telecommunication engineering "
                         },
                         {
-                            "title": "Software security "
+                            "title": "Generative Artificial Intelligence "
                         },
                         {
                             "title": "Programming languages "
+                        },
+                        {
+                            "title": "Wireless Networks "
+                        },
+                        {
+                            "title": "Machine Learning "
                         }
                     ]
                 }
@@ -51,7 +60,7 @@
                 {
                     "content": [
                         {
-                            "body": "I'm a PhD student at Université de Montréal working on enhancing software supply chain security, supervised by Prof. Benoit Baudry."
+                            "body": "I'm a student pursuing a master's degree  at Robotic and Mobile Laboratory (RAMO), Yonsei University, South Korea working on wireless networks and artificial intelligence, supervised by Prof. Kim Seong-Lyun."
                         }
                     ]
                 }
@@ -81,33 +90,19 @@
             "icons": [
                 {
                     "image": "/static/images/contact-icons-svg/top-email.svg",
-                    "alt": "yogya gamage - 1",
-                    "link": "mailto:tulipgamage@gmail.com"
+                    "alt": "amanda gamage - 1",
+                    "link": "mailto:amandas.gmagae@gmail.com"
                 },
                 {
                     "image": "/static/images/contact-icons-svg/top-in.svg",
-                    "alt": "yogya gamage - 1",
-                    "link": "http://linkedin.com/in/yogya-gamage"
+                    "alt": "amanda gamage - 1",
+                    "link": "www.linkedin.com/in/amanda-gamage"
                 },
-                {
-                    "image": "/static/images/contact-icons-svg/top-medium.svg",
-                    "alt": "yogya gamage - 1",
-                    "link": "https://medium.com/@yogya.gamage"
-                },
+                
                 {
                     "image": "/static/images/contact-icons-svg/top-github.svg",
-                    "alt": "yogya gamage - 1",
-                    "link": "https://github.com/yogyagamage"
-                },
-                {
-                    "image": "/static/images/contact-icons-svg/top-research-gate.svg",
-                    "alt": "yogya gamage - 1",
-                    "link": "https://www.researchgate.net/profile/Yogya_Gamage"
-                },
-                {
-                    "image": "/static/images/contact-icons-svg/top-google-scholar.svg",
-                    "alt": "yogya gamage - 1",
-                    "link": "https://scholar.google.com/citations?user=m_67-NAAAAAJ&hl=en"
+                    "alt": "amanda gamage - 1",
+                    "link": "https://github.com/AmandaGamage"
                 }
             ]
         }

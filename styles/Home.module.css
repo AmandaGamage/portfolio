@@ -113,7 +113,7 @@
   height: 15vw !important;
   min-width: 100px !important;
   min-height: 100px !important;
-  filter: grayscale();
+  filter: none;
   transition: all 1s;
 }
 

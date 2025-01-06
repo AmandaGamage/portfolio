@@ -4,7 +4,7 @@
         "firstPara": [
             {
                 "key": "me-1",
-                "body": "Hello everyone! I'm a PhD student at the Université de Montréal working on enhancing software supply chain security, supervised by Prof. Benoit Baudry. In a broader sense, I am interested in research in the areas of software security, software testing, and software reliability."
+                "body": "Hello everyone! I'm a Master's student at the Yonsei University working on using Generative Artificial Intelligence for wireless networks, supervised by Prof. Kim Seoung-Lyun. In a broader sense, I am interested in research in the areas of Artificial Intelligence, Wireless networks and Machine Learning."
             }
         ],
         "contentDetails": [
@@ -13,9 +13,21 @@
                 "content": [
                     {
                         "title": [
-                            "Department of Computer Science and Engineering, Faculty of Engineering, University of Moratuwa",
-                            "Bachelor of the Science of Engineering, Specialisation: Computer Science & Engineering",
-                            "Aug 2017 - July 2022"
+                            "School of Electrical and Electronic Engineering , Yonsei University, South Korea",
+                            "Master of the Science of Engineering, Specialization: Electrical & Electronic Engineering",
+                            "Aug 2023 - Present (Expected Graduation: Aug 2025)"
+                        ],
+                        "content": [
+                            {
+                                "body": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Department of Electronics and Telecommunication  Engineering, Faculty of Engineering, University of Moratuwa, Sri Lanka",
+                            "Bachelor of the Science of Engineering, Specialization: Electronics and Telecommunication Engineering",
+                            "Aug 2016 - Apr 2021"
                         ],
                         "content": [
                             {
@@ -27,7 +39,7 @@
                         "title": [
                             "Primary and Secondary Education",
                             "Southlands College, Galle, Sri Lanka",
-                            "2003-2016"
+                            "2001-2015"
                         ],
                         "content": [
                             {
@@ -49,36 +61,12 @@
                                 "body": [
                                     {
                                         "body": [
-                                            "I love sports in general. Through the years, from time to time, I have been following Cricket, Tennis, and Football games. However, the only sport I actually played was Table Tennis. I started playing Table Tennis when I was 6 years old. There were many times that I fell out of love for the game, but my parents' enthusiasm to see me play kept me going. In case you are interested, here is a boring list of my Table Tennis achievements."
+                                            "I love sports in general. Through the years, from time to time, I have been following Cricket and Table Tennis games. However, the only sport I actually played was Table Tennis. I started playing Table Tennis when I was 6 years old. There were many times that I fell out of love for the game, but my parents' enthusiasm to see me play kept me going. However, after moving to South Korea, I have not had the opportunity to play Table Tennis for the last two years, mainly due to a knee injury I suffered while playing for the university Table Tennis team in Sri Lanka. In case you are interested, here is a boring list of my Table Tennis achievements."
                                         ]
                                     }
                                 ]
                             },
-                            {
-                                "title": "Representing the Table Tennis team of WSO2 LLC",
-                                "body": [
-                                    {
-                                        "body": [
-                                            "2023 - Inter IT Club Knockout Tournament Women's Doubles - Champion"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "2023 - Inter IT Club Knockout Tournament Mixed Doubles - Champion"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "2022 - 63rd Mercantile Inter Club League Championship Women's C Division - Runner-up"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "2022 - MTTA Individual Open Championship Novices Women's - Champion"
-                                        ]
-                                    }
-                                ]
-                            },
+                           
                             {
                                 "title": "Representing the Table Tennis team of the University of Moratuwa",
                                 "body": [
@@ -126,7 +114,23 @@
                                         "body": [
                                             "2018 - KDU Leaders' Trophy Inter University tournament - Champion"
                                         ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2017 -  University of Moratuwa Colors Award"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2017 - Wayo Spins Inter University tournament - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2017 - KDU Leaders' Trophy Inter University tournament - Champion"
+                                        ]
                                     }
+
                                 ]
                             },
                             {
@@ -135,16 +139,6 @@
                                     {
                                         "body": [
                                             "2013 - All Island School Games - Silver Medal"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "2013 - Southern Province Sports Colors"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "2012 - All Island School Games - Silver Medal"
                                         ]
                                     },
                                     {
@@ -199,11 +193,6 @@
                                     },
                                     {
                                         "body": [
-                                            "2007 - All Island Inter-School Under 10 Girls A-Division - Champion"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
                                             "2005 - All Island Inter-School Under 10 Girls A-Division - Runner-Up"
                                         ]
                                     },
@@ -223,7 +212,7 @@
                                 "body": [
                                     {
                                         "body": [
-                                            "Books, music, and movies have always been a big influence on me. My taste for books and movies spans from cheerful, colorful period dramas to dark, unsettling thrillers. But, though I have tried, I just can't get into sitcoms or action/adventure/sci-fi superhero movies. When it comes to music, I'm no expert, and yet I have a specific taste. I like melodies with unpredictable variations and lyrics with emotional honesty. It is always hard to list out favorites, but just because I want to list out something in this section, here’s a list of some quotes that I find compelling, mostly taken from books."
+                                            "Books, music, and movies have always been a big influence on me. Though I read anything and everything, ranging from “The Name of the Wind” by Patrick Rothfuss, to “Sapiens:A Brief History of Humankind” by Yuval Noah Hararri I have a soft spot for fantasy. I first fell in love with the genre with “Harry Potter” by J.K.Rowling when I was 11 years old. Since then I spend a lot of my free time reading books belonging to a multitude of genres. I also enjoy listening to music and watching movies. I am a big fan of sci-fi movies and dramas like “The Expanse” and “Black Mirror”. I have also started to enjoy K-dramas and K-pop music since moving to South Korea. This has helped me become fluent or at least understand Korean to a certain extent. It is always hard to list out favorites, but just because I want to list out something in this section, here’s a list of some quotes that I find compelling, mostly taken from books and k-dramas."
                                         ]
                                     }
                                 ]
@@ -232,21 +221,22 @@
                                 "body": [
                                     {
                                         "body": [
-                                            "Don’t walk in front of me… I may not follow. Don’t walk behind me… I may not lead. Walk beside me… just be my friend. - Albert Camus"
+                                            "The purpose of a storyteller is not to tell you how to think, but to give you questions to think upon. - Brandon Sanderson, “The Way of Kings”"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "We read the world wrong and say that it deceives us. ― Rabindranath Tagore (Stray Birds)"                                        ]
+                                            "It is our choices that show who we truly are, far more than our abilities.” – Albus Dumbledore, “Harry Potter”"                                        ]
                                     },
                                     {
                                         "body": [
-                                            "So, if you are too tired to speak, sit next to me for I, too, am fluent in silence. - R. Arnold"
+                                            "I don't know where I'm trapped, but I want to break free. I want to feel truly happy, truly good. And I want to be able to say, 'Ah, this is life. This is what it means to be alive.' - Kim Ji-Won, “My Liberation Notes”"
+
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "I myself am best when least in company. - Duke Orsino (Twelfth Night - William Shakespeare)"
+                                            "Life isn't so fair for all of us. Some spend their whole lives walking unpaved roads, while some run full speed just to hit a cliff and fall. - Hong Du-sik, “Hometown Cha Cha Cha”"
                                         ]
                                     },
                                     {
@@ -261,14 +251,19 @@
                                     },
                                     {
                                         "body": [
-                                            "Between the lines of every story there is another story, and that is one that is never heard and can only be guessed at by the people who are good at guessing. - Frances Hodgson Burnett"
+                                            "Fairy tales are more than true not because they tell us that dragons exist, but because they tell us that dragons can be beaten. -Neil Gaiman"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "“I wish it need not have happened in my time,” said Frodo. “So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.” (The Fellowship of the Ring - J. R. R. Tolkien)"
+                                            "“I wish it need not have happened in my time,” said Frodo. “So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.” -“The Fellowship of the Ring” , J. R. R. Tolkien"
+                                        ]
+                                    },                                  {
+                                        "body": [
+                                            "Nothing lasts forever. You only live once. So live your life, not any other life. Take chances and never regret. -  BTS, “Intro : O!RUL8,2?”"
                                         ]
                                     }
+
                                 ]
                             }
                         ]
