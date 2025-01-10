@@ -1,12 +1,13 @@
 {
     "title": {
-        "icon": {
-            "image": "./static/images/contact-icons-svg/icons8-home-100.svg",
-            "alt": "Amanda Gamage Logo"
-        },
+        "title": "Amanda Gamage",
         "link": "/"
     },
     "content": [
+        {
+            "title" : "Home",
+            "link" : "/"
+        },
         {
             "title" : "About",
             "link" : "/aboutMe"

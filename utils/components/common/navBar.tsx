@@ -56,7 +56,7 @@ export default function NavBar(props: Props) {
                                 component="div"
                                 color="primary"
                             >
-                                {navItemsConfig.title.title}
+                                {navItemsConfig.title.title }
                             </Typography>
                         </Button>
                     </Box>
@@ -68,7 +68,7 @@ export default function NavBar(props: Props) {
                         ))}
                     </Box>
                     <IconButton
-                        color="inherit"
+                        color="primary"
                         aria-label="open drawer"
                         edge="end"
                         onClick={handleDrawerToggle}
