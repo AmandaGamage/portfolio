@@ -3,29 +3,16 @@
         "pageTitle": "Publications",
         "publications": [
             {
-                "title": "D. Tiwari, Y. Gamage, M. Monperrus, B. Baudry 'PROZE: Generating Parameterized Unit Tests Informed by Runtime Data'",
-                "link": "https://arxiv.org/pdf/2407.00768"
+                "title": "Amanda Sheron Gamage, Kim Seong-Lyun . ' A Spectrum Sharing System: A Comparison of DDPMs and GANs for Visualized Interference Classification with CNN '. Accepted at the International Conference on Information and Communication Technology Convergence (ICTC). 2024"
+                
+
+               
             },
             {
-                "title": "B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu, Y. Liu, M. Monperrus, J. Ron, A. Silva, D. Tiwari 'Generative AI to Generate Test Data Generators', IEEE Software Special Issue on Generative AI for Software Engineering, doi: 10.1109/MS.2024.3418570.",
-                "link": "https://ieeexplore.ieee.org/document/10577477"
-            },
-            {
-                "title": "F. R. Garcia, Y. T. Gamage, G. Skoglund, B. Baudry, M. Monperrus 'A Benchmark of Reproducible Breaking Dependency Updates', 2024 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
-                "link": "https://arxiv.org/pdf/2401.09906"
-            },
-            {
-                "title": "Y. T. Gamage, T. A. I. Thotawaththa, and A. Wijayasiri, 'Measuring road roughness through crowdsourcing while minimizing the conditional effects,' International journal of intelligent transportation systems research, vol. 20, no. 2, p. 581–601, 2022. doi: 10.1007/s13177-022-00312-6.",
-                "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
-            },
-            {
-                "title": "Y. T. Gamage, T. A. I. Thotawaththa and A. Wijayasiri, 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' 2022 22nd International Conference on Advances in ICT for Emerging Regions (ICTer), 2022, pp. 118-123, doi: 10.1109/ICTer58063.2022.10024097.",
-                "link": "https://ieeexplore.ieee.org/document/10024097"
-            },
-            {
-                "title": "T. A. I. Thotawaththa, Y. T. Gamage, D. Gamlath, W. Chee and D. Meedeniya, 'Automated Categorization of Privacy Policies Based on User Perspective' 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS), 2021, pp. 54-59, doi: 10.1109/ICIAfS52090.2021.9606158.",
-                "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
+                "title": "Amanda Sheron Gamage, Riku Jäntti and Kim Seong-Lyun. ' Deep Learning for Spectrum Sharing: Leveraging Generative Models to Classify CBRS Collision Scenarios.' Submitted to the IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN). 2025"
+                
             }
+
         ]
     },
     
@@ -33,32 +20,32 @@
         "pageTitle": "Research Projects",
         "projects": [
             {
-                "name": "Creating a Benchmark of Breaking Dependency Updates",
-                "duration": "2023 May - 2023 Oct",
-                "place": "KTH Royal Institute of Technology, Sweden",
+                "name": "Generative Models for Digital Twins of Wireless Networks",
+                "duration": "2024 Dec - present",
+                "place": "Yonsei University, South Korea",
                 "content": [
                     {
-                        "body": "In this research, we created a new benchmark called BUMP that contains reproducible breaking dependency updates in Java projects built with the Maven build system. BUMP ensures long-term reproducibility of dependency updates on different platforms, guaranteeing consistent build failures to support future research. We also researched on the different causes of build breakage, discovering novel insights on breaking updates."
+                        "body": "In this research, we are currently studying on using data augmentation methods using Generative Models like LLMs for Digital Twins of 6G networks under the supervision of Prof. Kim Seong-Lyun."
                     }
                 ]
             },
             {
-                "name": "Monitoring Road Quality Using Crowdsourced Smartphone Sensor Data",
-                "duration": "2021 April - 2022 April",
-                "place": "University of Moratuwa, Sri Lanka",
+                "name": "A Spectrum-sharing System using Generative Models",
+                "duration": "2024 Feb - 2024 Dec",
+                "place": "Yonsei University, South Korea",
                 "content": [
                     {
-                        "body": "This study is an attempt to develop a road roughness monitoring platform using passenger cars that can produce accurate results while reducing the effect of these conditions such as the car type, smartphone model, or its placement. The developed system consists of several features including automatic journey detection, freedom to use any smartphone in any position with or without an active internet connection when collecting data, converging values collected from different sources, and visualizing them in a virtual map. This project was carried out in collaboration with the Road Development Authority, Sri Lanka, under the supervision of Dr. Adeesha Wijayasiri."
+                        "body": " In this research we developed a novel deep-learning based collision detection spectrum-sharing system for the Citizens Broadband Radio Service (CBRS) spectrum leveraging generative models and the evaluated the performance of three types of generative models, namely, Denoising Diffusion Probabilistic Models (DDPMs), Generative Adversarial Networks (GANs), and Vector Quantized Variational Autoencoders (VAEs) for the task of visualized interference classification. This project was done in collaboration with Prof. Riku Jäntti and Prof. Kim Seong-Lyun."
                     }
                 ]
             },
             {
-                "name": "Automated Categorization of Privacy Policies Based on User Perspective",
-                "duration": "2020 May - 2021 May",
+                "name": "Seismic Sensor Network for Remote Detection of Wild Elephants ",
+                "duration": "2020  - 2021",
                 "place": "University of Moratuwa, Sri Lanka",
                 "content": [
                     {
-                        "body": "This study aims to propose an approach to convey privacy policies in a way that a common user can comprehend. We identified 10 categories to classify headers and sections of privacy policies, selected after considering both the users' and domain experts' views. We also experimented on creating automated privacy policy classification models using BERT, SVM, Naive Bayes, and BiLSTM. This project was done in collaboration with Sieve Singapore under the supervision of Prof. Dulani Meedeniya."
+                        "body": "This study aims to propose an approach to detect seismic signals generated by rumbles and footfalls of elephants using machine learning, IoT and signal processing concepts. This project was supervised by Prof. Rohan Munasinghe and Prof. Chamira Edussooriya"
                     }
                 ]
             }
