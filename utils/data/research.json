@@ -28,35 +28,7 @@
             }
         ]
     },
-    "talks": {
-        "pageTitle": "Talks",
-        "talks": [
-            {
-                "title": "Demo of 'Maven Lockfile' at the 3rd KTH Workshop on the Software Supply Chain.",
-                "presentations": [
-                    {
-                        "link": "https://www.youtube.com/embed/5HwNIYAiRQg?si=Uja7c3gs_tSHEvGh"
-                    }
-                ]
-            },
-            {
-                "title": "Presentation of the paper 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' at ICTer, 2022.",
-                "presentations": [
-                    {
-                        "link": "https://www.youtube.com/embed/O7FjlFIGfUM?si=ML7_dXpsOv8ImIZe"
-                    }
-                ]
-            },
-            {
-                "title": "Presentation of the paper 'Automated Categorization of Privacy Policies Based on User Perspective' at ICIAFS, 2021.",
-                "presentations": [
-                    {
-                        "link": "https://www.youtube.com/embed/Kdg_HHW5kvE?si=NKAqICh-k5u2kw27"
-                    }
-                ]
-            }
-        ]
-    },
+    
     "research": {
         "pageTitle": "Research Projects",
         "projects": [

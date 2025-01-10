@@ -11,8 +11,8 @@ function MyApp(prop) {
     return (
         <>
             <Head>
-                <title>Amanda Gamage</title>
-                <link rel="shortcut icon" href="/favicon.png" />
+                <title>Amanda Sheron</title>
+                <link rel="shortcut icon" href=".\android-chrome-512x512.png" />
             </Head>
             <ThemeProvider theme={ appTheme }>
                 <CssBaseline enableColorScheme />
