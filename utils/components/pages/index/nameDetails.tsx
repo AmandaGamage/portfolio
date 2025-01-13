@@ -22,15 +22,16 @@ export default function NameDetails({ data }) {
                         {/* Solution 1: Using Material-UI Avatar with sx */}
                         <Avatar
                             sx={{
-                                width: 300, // Adjust size as needed
-                                height: 350,
-                                objectFit: "cover",
-                                objectPosition: "center 100px", // Move image down
                                 borderRadius: "50%",
+                                height: { xs: 150, sm: 200, md: 330 }, // Adjust height based on screen size
+                                width: { xs: 150, sm: 200, md: 280 }, // Adjust width based on screen size
+                                objectFit: "cover",
+                                objectPosition: { xs: "center top", sm: "center 50px", md: "center 100px" }, // Adjust position
                             }}
-                            alt={data.content[0].meImage.alt}
-                            src={data.content[0].meImage.image}
-                        />
+            alt={data.content[0].meImage.alt}
+            src={data.content[0].meImage.image}
+/>
+
 
                         {/* Uncomment Solution 2 if you prefer a custom div */}
                         {/* <div
