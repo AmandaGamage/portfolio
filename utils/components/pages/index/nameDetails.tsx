@@ -7,28 +7,68 @@ import { Time, getTime } from "../../../functions/common";
 import CommonDivider from "../../common/commonDivider";
 
 export default function NameDetails({ data }) {
-
     return (
         <>
-            <div className={ styles["nameContainer"] }>
-                <Grid spacing={ 4 } container direction="column" alignItems="center" justifyContent="center">
+            <div className={styles["nameContainer"]}>
+                <Grid
+                    spacing={4}
+                    container
+                    direction="column"
+                    alignItems="center"
+                    justifyContent="center"
+                >
+                    {/* Use either the Avatar component with sx or a custom img */}
                     <Grid item>
+                        {/* Solution 1: Using Material-UI Avatar with sx */}
                         <Avatar
-                            className={ styles["me-avatar"] }
-                            alt= { data.content[0].meImage.alt }
-                            src={ data.content[0].meImage.image }
+                            sx={{
+                                width: 300, // Adjust size as needed
+                                height: 350,
+                                objectFit: "cover",
+                                objectPosition: "center 100px", // Move image down
+                                borderRadius: "50%",
+                            }}
+                            alt={data.content[0].meImage.alt}
+                            src={data.content[0].meImage.image}
                         />
+
+                        {/* Uncomment Solution 2 if you prefer a custom div */}
+                        {/* <div
+                            style={{
+                                width: "150px",
+                                height: "150px",
+                                borderRadius: "50%",
+                                overflow: "hidden", // Ensures the image stays circular
+                            }}
+                        >
+                            <img
+                                src={data.content[0].meImage.image}
+                                alt={data.content[0].meImage.alt}
+                                style={{
+                                    width: "100%",
+                                    height: "100%",
+                                    objectFit: "cover",
+                                    objectPosition: "center 100px", // Move image down
+                                }}
+                            />
+                        </div> */}
                     </Grid>
+
                     <Grid item>
-                        <Stack className={ styles["stack"] } spacing={ 3 } justifyContent="center" alignItems="center">
-                            <Stack spacing={ 1 } justifyContent="center" alignItems="center">
-                                <Salutation salutationData={ data.content[1] } />
-                                <MyNameIs myNameIs={ data.content[2] } />
+                        <Stack
+                            className={styles["stack"]}
+                            spacing={3}
+                            justifyContent="center"
+                            alignItems="center"
+                        >
+                            <Stack spacing={1} justifyContent="center" alignItems="center">
+                                <Salutation salutationData={data.content[1]} />
+                                <MyNameIs myNameIs={data.content[2]} />
                             </Stack>
-                            <Name name={ data.content[3] } />
-                            <Stack spacing={ 1 } justifyContent="center" alignItems="center">
-                                <MyNameIs myNameIs={ data.content[4] } />
-                                <Scholarship scholarship={ data.content[5] } /> {/* Add this line */}
+                            <Name name={data.content[3]} />
+                            <Stack spacing={1} justifyContent="center" alignItems="center">
+                                <MyNameIs myNameIs={data.content[4]} />
+                                <Scholarship scholarship={data.content[5]} />
                             </Stack>
                         </Stack>
                     </Grid>

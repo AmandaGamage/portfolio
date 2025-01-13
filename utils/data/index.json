@@ -6,7 +6,12 @@
                 {
                     "meImage": {
                         "image": "/static/images/me/me.jpg",
+                        "style": {
+                            "objectPosition": "center 200px",
+                            "borderRadius": "50% / 25%"
+                        },
                         "alt": "me"
+                      
                     }
                 },
                 {
